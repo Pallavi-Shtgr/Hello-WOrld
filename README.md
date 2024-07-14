@@ -45,6 +45,30 @@ Meanwhile, it will be finding the available SDK components.
 
 Step 7: After it has found the SDK components, it will redirect to the Welcome dialog box. 
 
+![10](https://github.com/user-attachments/assets/ffef0b84-1eb5-4804-82c5-79b0d1e35a97)
+
+Click on Next. 
+
+![12](https://github.com/user-attachments/assets/77cc2982-a220-45a2-a291-cfda3c5b29d9)
+
+Choose Standard and click on Next. Now choose the theme, whether the Light theme or the Dark one. The light one is called the IntelliJ theme whereas the dark theme is called Dracula. Choose as required. 
+![13](https://github.com/user-attachments/assets/6c9faac9-d57b-47a3-a1d5-f75c7397d801)
+
+Click on the Next button. 
+
+Step 8: Now it is time to download the SDK components. 
+
+![14](https://github.com/user-attachments/assets/53103913-9293-487a-ac07-2aea7bc83e7d)
+
+Click on Finish. Components begin to download let it complete.
+The Android Studio has been successfully configured. Now it’s time to launch and build apps. Click on the Finish button to launch it. 
+
+Step 9: Click on Start a new Android Studio project to build a new app.
+![111](https://github.com/user-attachments/assets/738c233f-8d75-4057-8b47-2d9a3d38d5b8)
+
+
+
+
 
 
 
